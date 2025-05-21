@@ -1,0 +1,2 @@
+# Yotube Vedio Downloader
+Developed a YouTube video downloader web app using Streamlit and Python. Integrated yt-dlp to fetch and download videos or audio in MP4/MP3 formats via URL. Designed an intuitive, minimal interface with Streamlit’s components for a smooth user experience. Enabled real-time video preview and format selection. The app runs entirely on the browser, making it lightweight and easy to deploy.
